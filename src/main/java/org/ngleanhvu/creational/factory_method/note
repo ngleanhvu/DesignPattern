@@ -1,0 +1,12 @@
+// lop con quyet dinh doi tuong duoc tao
+
+Co nghia la se tao ra 1 creator cua lop con sau do lop con se goi phuong thuc
+de tao ra doi tuong cua lop con
+
+Neu muon mo rong doi tuong thi chi con tao concreteproduct moi sau do tao creatorproduct moi
+=> De dang mo rong hon
+
+// lop cha tu quyet dinh doi tuong duoc tao
+
+Co nghia la lop cha se quyet dinh tao ra doi tuong cua lop con va neu muon mo rong
+thi phai sua loi trong lop cha => Factory Pattern
